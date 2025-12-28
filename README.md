@@ -12,7 +12,7 @@ Dedicated to mastering scalable backend architectures and real-time game server 
 | **Languages** | [![My Skills](https://skillicons.dev/icons?i=cpp,cs,js,py)](https://skillicons.dev) |
 | **Backend** | [![My Skills](https://skillicons.dev/icons?i=dotnet,nodejs,redis)](https://skillicons.dev) |
 | **Data** | [![My Skills](https://skillicons.dev/icons?i=mysql,postgres)](https://skillicons.dev) |
-| **DevOps** | [![My Skills](https://skillicons.dev/icons?i=aws,docker)](https://skillicons.dev) |
+| **Tools** | [![My Skills](https://skillicons.dev/icons?i=aws,docker)](https://skillicons.dev) |
 
 ---
 

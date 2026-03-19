@@ -22,6 +22,10 @@ TODO
 ---
 
 ### 📂 My Projects
-* [MSA Chat Server Powred by Boost.asio](https://github.com/Ayumudayo/Knights)
-* [Discord Embed Bot written in C++](https://github.com/Ayumudayo/LinkEmbed)
+* [MSA Server written in C++ and Boost.asio](https://github.com/Ayumudayo/Dynaxis)
+* [Personal-Perpose Discord bot written in Rust](https://github.com/Ayumudayo/Dynamo)
+* [Discord Embed Bot written in Rust](https://github.com/Ayumudayo/LinkEmbed)
+* FFXIV Remote Party Finder integrated with FFLOGS
+  - [Server](https://github.com/Ayumudayo/RemotePartyFinderReborn-Server)
+  - [Plugin](https://github.com/Ayumudayo/RemotePartyFinderReborn-Plugin)
 * [Monolithic Game Server written in Node.js](https://github.com/Skill-Gacha/Skill-Gacha-Server)
